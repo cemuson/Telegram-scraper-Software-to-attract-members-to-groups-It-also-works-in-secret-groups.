@@ -19,6 +19,10 @@ To purchase the software, you can access it at t.me/birisibiri10.
  https://t.me/birisibiri10
 
 
+https://github.com/cemuson/Telegram-scraper-Software-to-attract-members-to-groups-It-also-works-in-secret-groups./assets/90424803/8ad9efb8-388e-421e-981e-46d8fe10f3bc
+
+
+
 This software is a tool designed to retrieve members from Telegram groups. It possesses several key features, allowing users to manage group members more effectively:
 
 1. **Activity-Based Segmentation:** The tool can categorize group members based on their activity levels. This functionality enables more efficient management of group members according to their engagement.
