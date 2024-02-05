@@ -13,7 +13,8 @@ Type the username or link of the group you want to scan.
 
 Go to the attachment file. Type the username of the group you want to add and launch it. That's it.
 
-To purchase the software, you can access it at t.me/birisibiri10.
+To purchase the software, you can access it at  https://t.me/birisibiri10
+
 (Fee for unlimited software)
 
  https://t.me/birisibiri10
